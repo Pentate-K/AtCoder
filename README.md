@@ -1,1 +1,3 @@
 # AtCoder
+AtCoder の過去問を解いたやつを追加していきます。
+AtCoder ProblemsのReccomendationに表示されているやつを基本的に解いていきます。
